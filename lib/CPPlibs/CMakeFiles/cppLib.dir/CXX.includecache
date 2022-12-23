@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xuchengjun/ZXin/smap/lib/CPPlibs/main.cpp
+iostream
+-
+vector
+-
+opencv2/core.hpp
+-
+opencv2/opencv.hpp
+-
+opencv2/highgui.hpp
+-
+ctime
+-
+
