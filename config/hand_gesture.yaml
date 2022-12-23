@@ -1,0 +1,29 @@
+RIGHTHAND:
+  ONE: '1'
+  TWO: '2'
+  THREE: '3'
+  FOUR: '4'
+  FIVE: '5'
+  SIX: '6'
+  CHANGE_COM: 'change_command'
+  ATTENSION: 'attension'
+  VERFIY: 'verfiy'   # ok的手势
+  CANCLE: 'cancle'
+  STOP: 'stop'
+  RESUME: 'resume'
+
+LEFTHAND:
+  ONE: '1'
+  TWO: '2'
+  THREE: '3'
+  FOUR: '4'
+  TRACKOBJECT: 'track_object'    # 6
+  GRIPPERCLOSE: 'gripper_close'  # "L"
+  GRIPPEROPEN: 'gripper_open'    # 5
+  ATTENSION: 'attension'
+  VERIFY: 'verify'
+  CANCLE: 'cancle'
+  STOP: 'stop'
+  RESUME: 'resume'
+  RECORD: 'record'  # 这个不知道行不行。。。 记录示教信息
+  REPEAT: 'repeat'  # 重复示教信息

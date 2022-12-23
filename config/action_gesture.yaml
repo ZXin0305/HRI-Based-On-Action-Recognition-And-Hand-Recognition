@@ -1,0 +1,9 @@
+ACTION:
+  WALK: 'walk'
+  STAND: 'static'
+  BACKHOME: 'back_home'
+  BRINGPIECES: 'bring_pieces'
+  BRINGTOOLS: 'bring_tools'
+  REACHLEFT: 'reach_left_posi_and_catch'
+  REACHRIGHT: 'reach_right_posi_and_catch'
+  OPENBOTHARM: 'open_both_arm'
